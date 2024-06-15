@@ -1,7 +1,5 @@
 # # steps
 # 1 load data 
-# TODO create messy graph in MessyGraph.py
-# TODO add QGIS exporter for graph (maybe)
 # 2 create x_i
 # 3 create var 
 # TODO normalize the var (completed)
